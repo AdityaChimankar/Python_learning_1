@@ -1,2 +1,2 @@
-# CoreJava
-Core Java  training 
+# Python Basic
+For Nobe
