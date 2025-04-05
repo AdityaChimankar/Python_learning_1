@@ -18,7 +18,7 @@ Welcome to the **Python Basics Repository**! This repository is designed for beg
 To start using the repository, clone it using:
 
 ```bash
-git clone https://github.com/your-username/python-basics.git
+git clone https://github.com/AdityaChimankar/python_learning_1.git
 ```
 
 Ensure you have Python installed on your system. You can verify by running:
